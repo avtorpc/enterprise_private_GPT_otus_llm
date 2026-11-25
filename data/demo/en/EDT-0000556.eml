@@ -1,0 +1,74 @@
+X-MS-Exchange-Organization-AuthAs: Internal
+From: Shanice Campbell <shanice.campbell@sinabis-green.com>
+To: Siobhan Ramirez <siobhan.ramirez@sinabis-green.com>
+Subject: RE: Fault E-201 at Sweetgrass Plateau Solar Farm
+Date: Tue, 27 Oct 2020 16:34:44 -0500
+Message-ID: <668d0f8d1783603bb742.5797053552037153665@sinabis-green.com>
+In-Reply-To: <622d9c387baea706708a.5797053552037153665@sinabis-green.com>
+References: <473276269f3836a0f01b.5797053552037153665@sinabis-green.com>
+ <622d9c387baea706708a.5797053552037153665@sinabis-green.com>
+Thread-Topic: Fault E-201 at Sweetgrass Plateau Solar Farm
+Content-Language: en
+X-Mailer: Sinabis Mail 16.4 (Desktop)
+X-Synthetic-Data: fictional; Sinabis Green Energy demo corpus
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi Siobhan, 
+
+I have reviewed the sensor logs you sent. It looks like the insulation fault is closely linked to moisture buildup in the conduit during the early morning hours. Since we cannot get the cooling fan immediately, I suggest we perform a temporary cleaning of the DC connectors and apply a dielectric spray to see if that stabilizes INV-11. 
+
+I will upload my full field notes to the team site at https://teams.sinabis-green.com/sites/solar-phx/Minutes. If this workaround holds, we can manage until the backordered part arrives. 
+
+Thank you,
+
+Shanice
+Shanice Campbell
+Field Technician | Field Service & Maintenance
+Sinabis Green Energy, Inc.
+2100 Solarbreeze Parkway, Austin, TX 78741
+T +1 512 555-0161 ext. 7449 | M +1 512 555-0129
+www.sinabis-green.com
+
+CONFIDENTIALITY NOTICE: This email and any attachments are intended only for the named recipient(s) and may contain confidential information. If you received it in error, please notify the sender and delete it.
+
+---------- Forwarded message / history ----------
+
+From: shanice.campbell@sinabis-green.com
+Sent: 2020-10-27T11:20:14
+Subject: Fault E-201 at Sweetgrass Plateau Solar Farm
+
+> Hi Siobhan, 
+> 
+> I am reporting a recurring E-201 DC string insulation fault at the Sunbelt Clean Power Sweetgrass Plateau Solar Farm (SPP-PHX-04). The issue is specifically with inverter block INV-11. The unit tripped nine times overnight, though the fault clears itself after a manual restart. 
+> 
+> I have attached Work_Order_WO-PHX-60054.pdf for your review. Please note that the replacement cooling fan we need is currently on backorder for several weeks, which may delay a permanent fix. 
+> 
+> Best regards,
+> 
+> Shanice
+> Shanice Campbell
+> Field Technician | Field Service & Maintenance
+> Sinabis Green Energy, Inc.
+> 2100 Solarbreeze Parkway, Austin, TX 78741
+> T +1 512 555-0161 ext. 7449 | M +1 512 555-0129
+> www.sinabis-green.com
+
+From: siobhan.ramirez@sinabis-green.com
+Sent: 2020-10-27T15:40:06
+Subject: RE: Fault E-201 at Sweetgrass Plateau Solar Farm
+
+> Hi Shanice, 
+> 
+> Thanks for the heads up. I am attaching the 20201118_Sensor_log_SPP-PHX-04.xlsx so we can look for any voltage spikes preceding the trips. Let me know if the logs show anything unusual. 
+> 
+> Siobhan
+> 
+> Siobhan Ramirez
+> Chief Technology Officer
+> Executive Office
+> Sinabis Green Energy, Inc.
+> 2100 Solarbreeze Parkway, Austin, TX 78741
+> T +1 512 555-0182 ext. 1177 | M +1 512 555-0165
+> www.sinabis-green.com
